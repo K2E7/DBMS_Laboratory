@@ -1,0 +1,47 @@
+__________________REGIONAL_SALES_RECORD__________________
+..................Generated on 4_8_2022..................
+_________________________________________________________
+---------------------------------------------------------
+Region 1
+---------------------------------------------------------
+Salesman 1 is Rs 0
+Salesman 2 is Rs 0
+Salesman 3 is Rs 450
+Salesman 4 is Rs 0
+Salesman 5 is Rs 0
+Salesman 6 is Rs 0
+Total Sale at Region 1 Rs 450
+
+---------------------------------------------------------
+Region 2
+---------------------------------------------------------
+Salesman 1 is Rs 0
+Salesman 2 is Rs 0
+Salesman 3 is Rs 650
+Salesman 4 is Rs 0
+Salesman 5 is Rs 1100
+Salesman 6 is Rs 0
+Total Sale at Region 2 Rs 1750
+
+---------------------------------------------------------
+Region 3
+---------------------------------------------------------
+Salesman 1 is Rs 0
+Salesman 2 is Rs 0
+Salesman 3 is Rs 0
+Salesman 4 is Rs 1800
+Salesman 5 is Rs 0
+Salesman 6 is Rs 0
+Total Sale at Region 3 Rs 1800
+
+---------------------------------------------------------
+Region 4
+---------------------------------------------------------
+Salesman 1 is Rs 6000
+Salesman 2 is Rs 3500
+Salesman 3 is Rs 0
+Salesman 4 is Rs 0
+Salesman 5 is Rs 0
+Salesman 6 is Rs 7200
+Total Sale at Region 4 Rs 16700
+
